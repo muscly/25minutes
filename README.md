@@ -3,11 +3,16 @@
 
 Pomodoro Timer
 
-Snapshot
+Snapshots
 ========
 
-![start](https://raw.github.com/muscly/25minutes/master/start.png)
-![hideui](https://raw.github.com/muscly/25minutes/master/hideui.png)
+* Before starting
+
+![start](start.png)
+
+* Started
+
+![hideui](hideui.png)
 
 Features
 ========
@@ -20,7 +25,7 @@ Features
 Download
 =========
 
-Explore to muscly/25minutes/RodomopoTimer/bin/Release/ in Files tab.
+* This is the [executable](RodomopoTimer/bin/Release/RodomopoTimer.exe).
 
 Etc.
 =========
